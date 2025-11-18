@@ -13,9 +13,7 @@
   + Kubernetes
   + Redis
   + AWS
-
- * CI/CD
-   + Jenkins
-   + git
-   + svn
-   + perforce
+  + Jenkins
+  + git
+  + svn
+  + perforce

@@ -12,6 +12,7 @@
   + Mysql
   + Kubernetes
   + Redis
+  + AWS
 
  * CI/CD
    + Jenkins

@@ -12,6 +12,8 @@
   + Redis
   + AWS
   + Jenkins
+
+* 형상 관리 도구
   + git
   + svn
   + perforce

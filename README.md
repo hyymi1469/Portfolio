@@ -4,9 +4,9 @@
   + Go
   + React
   + Python
-  + JavaScript
  
 * ETC
+  + JavaScript
   + Mysql
   + Kubernetes
   + Redis

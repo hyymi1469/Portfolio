@@ -2,11 +2,11 @@
 * 가능 언어
   + C/C++
   + Go
-  + React
   + Python
   + java(spring)
  
 * ETC
+  + React
   + JavaScript
   + Mysql
   + Kubernetes

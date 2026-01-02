@@ -1,9 +1,10 @@
 # 기술 스택
 * 가능 언어
+  + java(spring)
+  + Kotlin(spring)
   + C/C++
   + Go
   + Python
-  + java(spring)
  
 * ETC
   + React

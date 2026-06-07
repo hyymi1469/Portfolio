@@ -18,12 +18,12 @@
  
 * ETC
   + React
+  + ReactNative
   + JavaScript
   + Mysql
   + Kubernetes
   + Redis
-  + AWS
-  + Jenkins
+  + OS : Linux, mac, window
 
 * 형상 관리 도구
   + git

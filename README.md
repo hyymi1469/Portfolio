@@ -1,10 +1,4 @@
 # 프로젝트 목록
-* [(상업)(제작중) 부동산 웹 (2026)](https://github.com/hyymi1469/petnoti)
-   - 부동산 매매, 구매를 위한 웹
-   - 백엔드: Kotlin, 프론트:React, Mysql 사용
-     
-<br>
-
 
 * [(상업)애견미용 고객 관리 앱+웹 (2026)](https://github.com/hyymi1469/petnoti)
    - 애견미용 샵주들을 위한 샵,고객관리용 어플

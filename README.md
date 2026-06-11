@@ -20,7 +20,7 @@
   + React
   + ReactNative
   + JavaScript
-  + Mysql
+  + Mysql/Mssql
   + Kubernetes
   + Redis
   + OS : Linux, mac, window

@@ -2,7 +2,7 @@
 * [(상업)애견미용 고객 관리 앱+웹 (2026)](https://github.com/hyymi1469/petnoti)
    - 애견미용 샵주들을 위한 샵,고객관리용 어플
    - 서버: Go, 프론트앤드+앱: ReactNative + expo, Mysql 사용
-   - 
+     
 
 * [대용량 로그 적재 및 뷰어  (2025)](https://github.com/hyymi1469/Biglogger)
    - 대용량 텍스트 로그를 웹상에서 보기 편하고 검색도 편하게 만든 시스템

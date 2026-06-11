@@ -2,14 +2,13 @@
 * [(상업)(제작중) 부동산 웹 (2026)](https://github.com/hyymi1469/petnoti)
    - 개인적인 부탁으로 만들게 된 부동산 맵 사이트
    - 백엔드 Kotlin, Mysql 사용
-
      
 <br>
 
 
 * [(상업)애견미용 고객 관리 앱+웹 (2026)](https://github.com/hyymi1469/petnoti)
    - 애견미용 샵주들을 위한 샵,고객관리용 어플
-   - 서버: Go, 프론트앤드+앱: ReactNative + expo, Mysql 사용
+   - 백엔드: Go, 프론트앤드+앱: ReactNative + expo, Mysql 사용
      
 <br>
 

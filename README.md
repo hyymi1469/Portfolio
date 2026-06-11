@@ -1,4 +1,12 @@
 # 프로젝트 목록
+* [(상업)(제작중) 부동산 웹 (2026)](https://github.com/hyymi1469/petnoti)
+   - 개인적인 부탁으로 만들게 된 부동산 맵 어플
+   - 백엔드 Kotlin, Mysql 사용
+
+     
+<br>
+
+
 * [(상업)애견미용 고객 관리 앱+웹 (2026)](https://github.com/hyymi1469/petnoti)
    - 애견미용 샵주들을 위한 샵,고객관리용 어플
    - 서버: Go, 프론트앤드+앱: ReactNative + expo, Mysql 사용
@@ -18,7 +26,7 @@
 <br>
 
 * [LockFreeQueue IOCP Server (2021)](https://github.com/hyymi1469/LockFreeQueue)
-   - 내가 생각하는 가장 효율적인 서버를 만들어보고 싶은 욕심에 시작한 서버 코어.
+   - 내가 생각하는 가장 효율적인 서버를 만들어보고 싶은 욕심에 시작한 서버 코어
    - 스레드들끼리 lock을 사용하지 않고 비동기적이지만 스레드충돌이 나지 않도록 LockFreeQueue를 사용(CAS기법)
    - C++ 사용
 <br>

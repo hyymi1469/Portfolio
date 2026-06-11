@@ -1,7 +1,7 @@
 # 프로젝트 목록
 * [(상업)(제작중) 부동산 웹 (2026)](https://github.com/hyymi1469/petnoti)
    - 부동산 매매, 구매를 위한 웹
-   - 백엔드 Kotlin, Mysql 사용
+   - 백엔드: Kotlin, 프론트:React, Mysql 사용
      
 <br>
 

@@ -10,7 +10,7 @@
 
 # 기술 스택
 * 가능 언어
-  + java(spring)
+  + Java(spring)
   + Kotlin(spring)
   + C/C++
   + C#
@@ -24,7 +24,7 @@
   + Mysql/Mssql
   + Kubernetes
   + Redis
-  + OS : Linux, mac, window
+  + OS : Linux, Mac, Window
 
 * 형상 관리 도구
   + git

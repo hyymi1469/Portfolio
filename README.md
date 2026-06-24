@@ -27,17 +27,7 @@
    - 내가 생각하는 가장 효율적인 서버를 만들어보고 싶은 욕심에 시작한 서버 코어
    - 스레드들끼리 lock을 사용하지 않고 비동기적이지만 스레드충돌이 나지 않도록 LockFreeQueue를 사용(CAS기법)
    - C++ 사용
-<br>
 
-* [게임, Unity - C++ IOCP and UDP server(2016)](https://www.youtube.com/watch?v=NABAbLFPs0g)
-   - 졸업작품으로 만들었던 1대1 온라인 FPS게임(은상 수상).
-   - IOCP TCP서버 하나, UDP서버 하나 사용하여 인게임 직전까진 TCP통신을 하다가 인게임에선 빠른 반응속도를 위해 UDP로 통신
-   - Unity엔진 C#, C++ 사용
-<br>
-
-* [게임 어플, Unity(2015)](https://www.youtube.com/watch?v=-Tgpsdl-E-4)
-   - 직접 게임 어플을 만들어보고 싶어서 만들어 본 어플
-   - Unity엔진 C# 사용
 <br>
 
 # 기술 스택

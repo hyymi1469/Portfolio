@@ -9,7 +9,7 @@
      
 <br>
 
-* [(상업)상가, 사무실 전용 부동산 거래 웹 (2026)](https://github.com/hyymi1469/realEstate)
+* [(상업)상가, 사무실 전용 부동산 거래 웹 - 개발 중 (2026)](https://github.com/hyymi1469/realEstate)
    - 상가, 사무실을 전문으로 매매, 임대하는 사이트가 없어서 개발하는 중인 어플
    - 참여인원 : 3명
    - 백엔드: Kotlin
